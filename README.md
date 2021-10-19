@@ -18,7 +18,7 @@
 
 
 ## How To start This Extension
-- First Clone this project
+- First Clone this project ```git clone https://github.com/Bauddhik-Geeks/Laughter-Chrome-extension.git```
 - click in chrome tab in right site three dot ![image](https://user-images.githubusercontent.com/62690629/137469305-5958b56f-5325-4646-8a5d-a54cae13f777.png)
 
 
