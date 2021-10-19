@@ -17,7 +17,7 @@
 ```
 
 
-##How To start This Extension
+## How To start This Extension
 - First Clone this project
 - click in chrome tab in right site three dot ![image](https://user-images.githubusercontent.com/62690629/137469305-5958b56f-5325-4646-8a5d-a54cae13f777.png)
 
@@ -30,7 +30,7 @@
 
 
 
-- now see ![image](https://user-images.githubusercontent.com/62690629/137469852-418cace4-d991-4bb1-97a0-8acad75d2c63.png) Your Extension is Ready and start this extension.
+- ![image](https://user-images.githubusercontent.com/62690629/137469852-418cace4-d991-4bb1-97a0-8acad75d2c63.png) Now see your Extension is Ready and start this extension.
 
 
 - Now You Enjoy Jokes ![Screenshot from 2021-10-15 15-30-40](https://user-images.githubusercontent.com/62690629/137470303-87ef7220-ad0c-4efb-8df1-f0fa514bfa5b.png)
